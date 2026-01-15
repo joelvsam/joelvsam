@@ -28,15 +28,15 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/haskell.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/prolog.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/haskell" height="32"/>
+  <img src="https://cdn.simpleicons.org/prolog" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/>
 
   <!-- Backend / Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/fastapi" height="32"/>
 
   <!-- Data / ML / AI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32"/>
@@ -44,28 +44,27 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/faiss.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/openai" height="32"/>
+  <img src="https://cdn.simpleicons.org/faiss" height="32"/>
+  <img src="https://cdn.simpleicons.org/langchain" height="32"/>
+  <img src="https://cdn.simpleicons.org/huggingface" height="32"/>
+  <img src="https://cdn.simpleicons.org/jupyter" height="32"/>
 
   <!-- Databases / Analytics -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/powerbi" height="32"/>
 
   <!-- DevOps / Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" height="32"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.svg" height="32"/>
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="32"/>
+  <img src="https://cdn.simpleicons.org/githubactions" height="32"/>
+  <img src="https://cdn.simpleicons.org/amazonaws" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/>
 </p>
-
 
 ---
 

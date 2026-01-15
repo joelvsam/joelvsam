@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hi, I’m a Software and AI Engineer
+
+I enjoy building reliable, production-ready systems that turn ideas into working software. My background spans software engineering, data, and applied AI, and I care a lot about writing clean code, designing systems that scale, and delivering results that actually matter.
+
+I like working end to end, from understanding the problem and designing the solution to building, deploying, and improving the system over time. I am especially comfortable in fast-moving environments where practical decisions and clear communication are just as important as technical depth.
 
 <!--
 **joelvsam/joelvsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

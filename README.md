@@ -22,59 +22,59 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 
+<!-- Languages -->
 <p align="left">
-  <!-- Languages -->
-  <strong>Languages:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++ &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="20"/> PHP &nbsp;
-  <img src="https://cdn.simpleicons.org/haskell" height="20"/> Haskell &nbsp;
-  <img src="https://cdn.simpleicons.org/prolog" height="20"/> Prolog &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/> HTML &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/> CSS
+  <strong>Languages</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32"/><br/>Python &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32"/><br/>Java &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32"/><br/>C++ &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32"/><br/>PHP &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/haskell" height="32"/><br/>Haskell &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prolog" height="32"/><br/>Prolog &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32"/><br/>JavaScript &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32"/><br/>HTML &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32"/><br/>CSS
 </p>
 
+<!-- Backend -->
 <p align="left">
-  <!-- Backend -->
-  <strong>Backend / Frameworks:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="20"/> Laravel &nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi" height="20"/> FastAPI
+  <strong>Backend / Frameworks</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32"/><br/>Laravel &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi" height="32"/><br/>FastAPI
 </p>
 
+<!-- Data / ML -->
 <p align="left">
-  <!-- Data / ML -->
-  <strong>Data / ML / AI:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="20"/> Pandas &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="20"/> NumPy &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="20"/> PyTorch &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="20"/> TensorFlow &nbsp;
-  <img src="https://cdn.simpleicons.org/openai" height="20"/> OpenAI &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain" height="20"/> LangChain &nbsp;
-  <img src="https://cdn.simpleicons.org/huggingface" height="20"/> Hugging Face &nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter" height="20"/> Jupyter
+  <strong>Data / ML / AI</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="32"/><br/>Pandas &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="32"/><br/>NumPy &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="32"/><br/>PyTorch &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="32"/><br/>TensorFlow &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai" height="32"/><br/>OpenAI &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="32"/><br/>LangChain &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface" height="32"/><br/>Hugging Face &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter" height="32"/><br/>Jupyter
 </p>
 
+<!-- Databases -->
 <p align="left">
-  <!-- Databases -->
-  <strong>Databases / Analytics:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> PostgreSQL &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL &nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi" height="20"/> Power BI
+  <strong>Databases / Analytics</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32"/><br/>PostgreSQL &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32"/><br/>MySQL &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" height="32"/><br/>Power BI
 </p>
 
+<!-- DevOps -->
 <p align="left">
-  <!-- DevOps -->
-  <strong>DevOps / Cloud:</strong><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> Kubernetes &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20"/> Linux &nbsp;
-  <img src="https://cdn.simpleicons.org/apacheairflow" height="20"/> Airflow &nbsp;
-  <img src="https://cdn.simpleicons.org/githubactions" height="20"/> GitHub Actions &nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.png" height="20"/> AWS &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="20"/> GCP &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20"/> Azure
+  <strong>DevOps / Cloud</strong><br/><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32"/><br/>Docker &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="32"/><br/>Kubernetes &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32"/><br/>Linux &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow" height="32"/><br/>Airflow &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions" height="32"/><br/>GitHub Actions &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/amazonaws.png" height="32"/><br/>AWS &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="32"/><br/>GCP &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="32"/><br/>Azure
 </p>
 
 

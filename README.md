@@ -1,4 +1,3 @@
-## Hi there 👋
 Hi, I’m a Software and AI Engineer
 
 I enjoy building reliable, production-ready systems that turn ideas into working software. My background spans software engineering, data, and applied AI, and I care a lot about writing clean code, designing systems that scale, and delivering results that actually matter.

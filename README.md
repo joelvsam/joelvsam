@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 - Model monitoring and optimization in production  
 - End-to-end ML/AI system architecture best practices
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelvsam&show_icons=true&theme=radical)  
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelvsam&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelvsam&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelvsam&theme=radical)
 

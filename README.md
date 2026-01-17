@@ -1,3 +1,31 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad">
+      <stop offset="0%" stop-color="#ff0080">
+        <animate attributeName="stop-color"
+          values="#ff0080;#7928ca;#2afadf;#ff0080"
+          dur="4s"
+          repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7928ca">
+        <animate attributeName="stop-color"
+          values="#7928ca;#2afadf;#ff0080;#7928ca"
+          dur="4s"
+          repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-size="40"
+    font-family="Arial, Helvetica, sans-serif"
+    fill="url(#grad)">
+    My Name is Joel
+  </text>
+</svg>
+
 Hi, I’m a Software and AI Engineer
 
 I enjoy building reliable, production-ready systems that turn ideas into working software. My background spans software engineering, data, and applied AI, and I care a lot about writing clean code, designing systems that scale, and delivering results that actually matter.
